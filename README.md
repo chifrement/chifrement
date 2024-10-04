@@ -1,6 +1,20 @@
-- 👋 Hi, I’m @chifrement
+# Etudiant en développement 
+
+> Hello everyone !  
+
+## About me : 
+  I am **BOBO Mathis**,  
+  
+  I am a student in **<ins>L'Idem - L'école des métiers créatifs et numériques</ins>**.
+
+
+<a href="https://html.com"><img alt="Static Badge" src="https://img.shields.io/badge/HTML-blue?style=plastic&logoColor=150%20120%20122"></a>
+
+
+
+- 👋 
 - 👀 I’m interested in Developement as a student
-- 🌱 I’m currently learning HTML-CSS-SQL-JS-PHP-SYMPHONY in "L'idem art school"
+- 🌱 I’m currently learning HTML-CSS-SQL-JS-PHP-SYMPHONY in 
 - 📫 How to reach me mathis@bobmanu.fr
 - 😄 Pronouns:Ma this
 - ⚡ Fun fact: I am fun (fact)

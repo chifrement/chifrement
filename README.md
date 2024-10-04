@@ -3,12 +3,14 @@
 > Hello everyone !  
 
 ## About me : 
-  I am **BOBO Mathis**,  
+  I am **BOBO Mathis**, 
   
   I am a student in **<ins>L'Idem - L'école des métiers créatifs et numériques</ins>**.
 
 
-<a href="https://html.com"><img alt="Static Badge" src="https://img.shields.io/badge/HTML-blue?style=plastic&logoColor=150%20120%20122"></a>
+<a href="https://html.com"><img alt="Static Badge" src="https://img.shields.io/badge/HTML-orange?style=plastic&logoColor=150%20120%20122"></a>
+<a href="https://css.com"><img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue?style=plastic&logoColor=150%20120%20122"></a>
+
 
 
 

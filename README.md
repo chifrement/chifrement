@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @chifrement
-- 👀 I’m interested in Developement 
-- 🌱 I’m currently learning HTML-CSS-SQL-JS-PHP-SYMPHONY
+- 👀 I’m interested in Developement as a student
+- 🌱 I’m currently learning HTML-CSS-SQL-JS-PHP-SYMPHONY in "L'idem art school"
 - 📫 How to reach me mathis@bobmanu.fr
 - 😄 Pronouns:Ma this
 - ⚡ Fun fact: I am fun (fact)

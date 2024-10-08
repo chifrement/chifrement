@@ -44,8 +44,7 @@ Je suis toujours ouvert aux contributions et aux collaborations sur des projets 
 
 ## 👾 Technologies que j'utilise
 
-- **Langages** : JavaScript, Python, HTML, CSS , 
-<!-- - **Frameworks ** :  -->
+- **Langages** : JavaScript, Python, HTML, CSS , <!-- - **Frameworks ** :  -->
 - **Bases de données** : SQL
 - **Outils** : Git, VSCode
 

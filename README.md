@@ -1,29 +1,54 @@
-# Etudiant en développement 
+# Bonjour, je suis <ins>Bobo Mathis</ins> 👋
 
-> Hello everyone !  
+Je suis développeur passionné par <ins>le développement web</ins>. J'aime explorer de nouvelles technologies et découvrir le monde informatique. Voici un aperçu de ce que je fais et de ce que je partage ici.
 
-## About me : 
-  I am **BOBO Mathis**, 
+---
 
-  I live in the south of **France**. 
-  
-  I am a student in **<ins>L'Idem - L'école des métiers créatifs et numériques</ins>**.
+## 📈 Mes statistiques GitHub
 
-  
-<a href="https://html.com"><img alt="Static Badge" src="https://img.shields.io/badge/HTML-orange?style=plastic&logoColor=150%20120%20122"></a>
-<a href="https://css.com"><img alt="Static Badge" src="https://img.shields.io/badge/CSS-blue?style=plastic&logoColor=150%20120%20122"></a>
+![Mes statistiques](https://github-readme-stats.vercel.app/api?username=chifrement&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chifrement&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+## 🚀 Ce que je fais
+
+- 💻 Développement de projets *personnels* 
+- 🔍 Passionné(e) par  Python
+- 📖 Toujours en train d'apprendre et d'expérimenter de nouvelles technologies
+- 🌱 Actuellement en train de travailler sur le HTML / CSS
+---
+
+## 📂 Mes projets
+
+Voici quelques-uns de mes projets favoris. N'hésitez pas à les essayer et à contribuer !
+
+<!-- - [**Projet 1**]() : -->
 
 
+---
 
+## 📬 Contact
 
-- 👋 
-- 👀 I’m interested in Developement as a student
-- 🌱 I’m currently learning HTML-CSS-SQL-JS-PHP-SYMPHONY in 
-- 📫 How to reach me mathis@bobmanu.fr
-- 😄 Pronouns:Ma this
-- ⚡ Fun fact: I am fun (fact)
+- 💼 [LinkedIn](https://www.linkedin.com/in/)
+- 📧 [Email](mailto:mathis@bobmanu.fr)
 
-<!---
-chifrement/chifrement is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+## 🙌 Contributions
+
+Je suis toujours ouvert aux contributions et aux collaborations sur des projets intéressants ! Si vous avez des idées, des suggestions ou si vous voulez collaborer, n’hésitez pas à me contacter.
+
+---
+
+## 👾 Technologies que j'utilise
+
+- **Langages** : JavaScript, Python, HTML, CSS , 
+<!-- - **Frameworks ** :  -->
+- **Bases de données** : SQL
+- **Outils** : Git, VSCode
+
+---
+
+Merci d'avoir visité mon profil ! 🚀

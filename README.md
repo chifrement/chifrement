@@ -6,6 +6,7 @@
   I am **BOBO Mathis**, 
 
   I live in the south of **France**. 
+  
   I am a student in **<ins>L'Idem - L'école des métiers créatifs et numériques</ins>**.
 
   

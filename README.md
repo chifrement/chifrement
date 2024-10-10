@@ -1,4 +1,4 @@
-# Bonjour, je suis <ins>Bobo Mathis</ins> 👋
+# Hello I am <ins>Bobo Mathis</ins> 👋
 
 Je suis développeur passionné par <ins>le développement web</ins>. J'aime explorer de nouvelles technologies et découvrir le monde informatique. Voici un aperçu de ce que je fais et de ce que je partage ici.
 

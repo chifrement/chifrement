@@ -15,7 +15,7 @@ Je suis développeur passionné par <ins>le développement web</ins>. J'aime exp
 ## 🚀 Ce que je fais
 
 - 💻 Développement de projets *personnels* 
-- 🔍 Passionné(e) par  Python
+- 🔍 Passionné par  Python
 - 📖 Toujours en train d'apprendre et d'expérimenter de nouvelles technologies
 - 🌱 Actuellement en train de travailler sur le HTML / CSS
 ---

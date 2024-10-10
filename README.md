@@ -24,7 +24,7 @@ Je suis développeur passionné par <ins>le développement web</ins>. J'aime exp
 ## 📂 Mes projets
 
 Voici quelques-uns de mes projets favoris. N'hésitez pas à les essayer et à contribuer !
-
+- (Aucun pour l'instant😛)
 <!-- - [**Projet 1**]() : -->
 
 

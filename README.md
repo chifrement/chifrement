@@ -8,7 +8,7 @@ Je suis développeur passionné par <ins>le développement web</ins>. J'aime exp
 
 ![Mes statistiques](https://github-readme-stats.vercel.app/api?username=chifrement&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chifrement&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chifrement&layout=compact)](https://github.com/chifrement/github-readme-stats)
 
 
 ---
